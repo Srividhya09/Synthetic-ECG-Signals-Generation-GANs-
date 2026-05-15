@@ -2,7 +2,7 @@ streamlit
 numpy
 scipy
 pickle-mixin
-tensorflow
+tensorflow-cpu==2.11.0
 matplotlib
 tqdm
 wfdb
